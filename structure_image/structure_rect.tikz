@@ -1,3 +1,6 @@
+% SPDX-FileCopyrightText: 2025 Jakob Fritz <j.fritz@fz-juelich.de>
+% 
+% SPDX-License-Identifier: MIT
 
 \tikzstyle{GHGLarrow}=[line width=0.07em, -triangle 60]
 
